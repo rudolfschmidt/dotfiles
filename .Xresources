@@ -1,0 +1,41 @@
+!!! This enables transparency.
+urxvt*depth: 32
+urxvt*transparent: true
+urxvt*shading: 5
+
+!!! This disables the scroll bar.
+urxvt*scrollBar: false
+urxvt*secondaryScroll: true
+/* urxvt.letterSpace: -1 */
+
+!!! Misc Settings
+urxvt*saveLines: 1000
+
+!!! Font
+urxvt*font: xft:Monospace:pixelsize=12
+!urxvt*font: xft:Source Code Pro:pixelsize=11
+!*font: xft:Bitstream Vera Sans Mono:pixelsize=11
+
+!!! Colors
+urxvt*foreground: white
+urxvt*background: [90]#000000
+!urxvt*background: black
+!With Transparency
+!*background: rgba:2000/2000/2000/dddd
+! dark custom
+urxvt*color0:  rgb:2e2e/3434/3636
+urxvt*color1:  rgb:cccc/0000/0000
+urxvt*color2:  rgb:4e4e/9a9a/0606
+urxvt*color3:  rgb:c4c4/a0a0/0000
+urxvt*color4:  rgb:3434/6565/a4a4
+urxvt*color5:  rgb:7575/5050/7b7b
+urxvt*color6:  rgb:0606/9820/9a9a
+urxvt*color7:  rgb:d3d3/d7d7/cfcf
+urxvt*color8:  rgb:5555/5757/5353
+urxvt*color9:  rgb:efef/2929/2929
+urxvt*color10: rgb:8a8a/e2e2/3434
+urxvt*color11: rgb:fcfc/e9e9/4f4f
+urxvt*color12: rgb:7272/9f9f/cfcf
+urxvt*color13: rgb:adad/7f7f/a8a8
+urxvt*color14: rgb:3434/e2e2/e2e2
+urxvt*color15: rgb:eeee/eeee/ecec

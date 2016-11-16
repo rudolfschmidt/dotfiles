@@ -1,0 +1,5 @@
+[user]
+	email = mail@rudolfschmidt.com
+	name = Rudolf Schmidt
+[core]
+	editor = vim
